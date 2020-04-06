@@ -5,7 +5,7 @@ This app allows you to look into stored messages content.
 ### Usage
 
 Open the page and enter you MAM root key and provider.
-https://mam-explorer.firebaseapp.com/
+https://mam.lexer.dev/
 
 Default mode is `public`, you can change it to `restricted` or `private`.
 `Restricted` mode will require an `encryption key`.
@@ -17,14 +17,14 @@ Default mode is `public`, you can change it to `restricted` or `private`.
 * Root: `QNXYZJDSMPARTLNRBZYTAPDWNZPFRVYTQNMSZCTDIFBBMXHWRAOHLYEVKIFSFBOYLA9PWXOFNGEQNTLMV`
 * Provider: `https://nodes.devnet.iota.org:443`
 
-Alternatively you can use [this link](https://mam-explorer.firebaseapp.com/?provider=https://nodes.devnet.iota.org:443&mode=public&root=QNXYZJDSMPARTLNRBZYTAPDWNZPFRVYTQNMSZCTDIFBBMXHWRAOHLYEVKIFSFBOYLA9PWXOFNGEQNTLMV)
+Alternatively you can use [this link](https://mam.lexer.dev/?provider=https://nodes.devnet.iota.org:443&mode=public&root=QNXYZJDSMPARTLNRBZYTAPDWNZPFRVYTQNMSZCTDIFBBMXHWRAOHLYEVKIFSFBOYLA9PWXOFNGEQNTLMV)
 
 #### Restricted message stream:
 
 * Root: `V9IHHZWYUVCQETYD9UFVWGDNFGQNCWAJ9XEOKHPQCBQHFZGQLJGMKYJ9IXPKFISFSGQYNVWNKPIBYQZLA`
 * Provider: `https://nodes.devnet.iota.org:443`
 
-Alternatively you can use [this link](https://mam-explorer.firebaseapp.com/?provider=https://nodes.devnet.iota.org&mode=restricted&key=VERYSECRETKEY99999999999999999999999999999999999999999999999999999999999999999999&root=V9IHHZWYUVCQETYD9UFVWGDNFGQNCWAJ9XEOKHPQCBQHFZGQLJGMKYJ9IXPKFISFSGQYNVWNKPIBYQZLA)
+Alternatively you can use [this link](https://mam.lexer.dev/?provider=https://nodes.devnet.iota.org&mode=restricted&key=VERYSECRETKEY99999999999999999999999999999999999999999999999999999999999999999999&root=V9IHHZWYUVCQETYD9UFVWGDNFGQNCWAJ9XEOKHPQCBQHFZGQLJGMKYJ9IXPKFISFSGQYNVWNKPIBYQZLA)
 
 
 ### For developers
